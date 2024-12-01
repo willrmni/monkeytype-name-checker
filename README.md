@@ -28,7 +28,7 @@ My first project with Python, used to check the availability of names on https:/
 
 ![image](https://github.com/user-attachments/assets/058a48b2-ac35-4667-ba43-3ff02f028d4f)
 
-* Now in the text editor of your choice *(Notepad, Notepad++, Visual Studio Code, etc.,)* replace **line 33** *(and below as needed)* with the text ChatGPT provided you. Use CTRL + S to save, and [run it]()!
+* Now in the text editor of your choice *(Notepad, Notepad++, Visual Studio Code, etc.,)* replace **line 33** *(and below as needed)* with the text ChatGPT provided you. Use **CTRL + S** to save, and [run it]()!
 
 ![Side-by-side](https://github.com/user-attachments/assets/c033ee49-492d-474d-90e6-bf35da9a8e64)
 
