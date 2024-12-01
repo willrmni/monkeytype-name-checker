@@ -15,7 +15,7 @@ My first project with Python, used to check the availability of names on https:/
 
 ![image](https://github.com/user-attachments/assets/6e72dddf-bd56-4a2d-91b1-6c92a45348f1)
 
-* From here, the list of words in the [rmni.py](https://github.com/willrmni/monkeytype-name-checker/blob/main/rmni.py) file will be checked against the Monkeytype API.
+* From here, the [list of words](https://github.com/willrmni/monkeytype-name-checker/tree/main?tab=readme-ov-file#personalizing-the-list) in the [rmni.py](https://github.com/willrmni/monkeytype-name-checker/blob/main/rmni.py) file will be checked against the Monkeytype API.
 
 ![image](https://github.com/user-attachments/assets/0971538c-1543-4e84-aa37-0f4d4cda82af)
 
