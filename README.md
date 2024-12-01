@@ -5,7 +5,7 @@ My first project with Python, used to check the availability of names on https:/
 ## Running the File
 
 1. Download and install the latest version of [**Python**](https://www.python.org/downloads/).  
-2. After doing so, open **Command Prompt** and enter the following: `pip install colorama`
+2. After doing so, open **Command Prompt** and enter the following: `pip install requests` and `pip install colorama`
 3. Now download the [**rmni.py**](https://github.com/willrmni/monkeytype-name-checker/blob/main/rmni.py) file.
 4. Navigate to **File Explorer**, locate the directory [rmni.py](https://github.com/willrmni/monkeytype-name-checker/blob/main/rmni.py) is in and enter `cmd` in the address bar. This will open the file's directory in **Command Prompt**.
 5. In the new **Command Prompt** window, enter the following: `python rmni.py`
